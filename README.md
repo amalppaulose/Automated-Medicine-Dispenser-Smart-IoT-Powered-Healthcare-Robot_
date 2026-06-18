@@ -10,19 +10,6 @@ Sends real-time refill alerts when medicine runs low (photoelectric sensors)
 Returns to its docking position automatically after dispensing
 Is controlled remotely from anywhere in the world via the Blynk IoT app
 
-Architecture
-Blynk Cloud (Schedule & Dosage)
-        ↓
-      ESP32 (WiFi + Logic)
-        ↓
-   Arduino UNO (Motor Control)
-    ↙          ↘
-IR Sensors    L298N Motor Driver
-(Navigation)      ↓
-            4× DC Motors (Rover)
-            4× Servo Motors (Dispensers)
-            Water Pump
-
 Key Hardware
 ESP32, Arduino UNO,SG90 Servo × 4P, IR Sensors, Photoelectric Sensor, Li-ion Pack (11.1V, 6.6A)Portable power with BMS protection, R385 Mini Pump
 

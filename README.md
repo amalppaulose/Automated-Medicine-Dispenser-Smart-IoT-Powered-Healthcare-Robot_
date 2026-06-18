@@ -28,9 +28,9 @@ Built for ₹20,526
 Proving that life-improving medical robotics doesn't require a Fortune 500 budget.
 
 Future Roadmap
-Syrup dispensing module
-Vitals monitoring (SpO2, BP)
-SOS signal to nearest health centre
-LED touchscreen interface
-Wireless charging dock
+Syrup dispensing module,
+Vitals monitoring (SpO2, BP),
+SOS signal to nearest health centre,
+LED touchscreen interface,
+Wireless charging dock,
 Multi-patient deployment (hospital wards)
